@@ -1,0 +1,68 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+header{
+    text-align: center;
+}
+
+.container{
+    padding-top: 20px;
+    width: 100vw;
+    display: flex;  
+}
+
+#infoContainer h1, h2{
+    font-weight: 100;
+}
+
+#infoLeft{
+    background-color:cornflowerblue;
+    font-size: 13px;
+    width: 45vw;
+    margin-left: 2.5vw;
+    margin-right: 2.5vw;  
+}
+
+#infoRight{
+    background-color: chocolate;
+    font-size: 13px;
+    width: 45vw;
+    margin-left: 2.5vw;
+    margin-right: 2.5vw;  
+}
+
+#resourceLinks{
+    background-color: green;
+}
+
+
+#questions{
+    background-color: yellow;
+}
+
+#accessibility{
+    background-color: yellowgreen;
+}
+
+.footerItem{
+    margin-left: 2.5vw;
+    margin-right: 2.5vw; 
+    width: 33vw; 
+    font-size:13px;
+}
+
+.footerList{
+    margin-left: 2.5vw;
+    list-style:none;
+}
+
+.footerList li{
+    font-size: 20px;
+}
+
+.footerList li:before{
+    content: "-  ";
+}
+
