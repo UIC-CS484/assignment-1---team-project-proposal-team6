@@ -117,3 +117,8 @@ td {
     font-size:15px;
   }
 
+ol{
+    margin-left: 2.5em;
+    font-size: 20px;
+    font-weight: 1000;
+}
