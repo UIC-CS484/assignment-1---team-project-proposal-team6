@@ -10,20 +10,49 @@
     <main>
         <body>
             <header class="site_header">
-                <h1>Potential Title or Topic of Web App</h1>
+                <h1>The Playlist</h1>
             </header>
             <div class="container">
                 <div id ="infoLeft">
                     <h1 class="no_margin">Address the following in this section:</h1>
                     <p>RESTFul Api's our team will potentially use?</p>
+                    <p class = "response">Spotify api, youtube api, soundcloud api</p>
                     <br>
-                    <p>How might the data use receive from </p>
-                    <p>the API provide insight and </p>
-                    <p>information to the end user</p>
+                    <p>How might the data use receive from the API provide insight and information to the end user?</p>
+                    <p class = "response">We can use each api's respect player to play music for its respective source. We can also get user data which is graphable</p>
                     <br>
                     <p>What data will you collect from authenticated site users?</p>
+                    <p class="response">General user information, activity, playlist content information</p>
                     <br>
                     <p>Identify all entities/tables you might use in your database along with their respective attributes</p>
+                    <div>
+                        <table>
+                            <tr>
+                                <td>Table 1</td>
+                                <td>UserId</td>
+                                <td>hashed and salted Password</td>
+                            </tr>
+                        </table>
+
+                        <table>
+                            <tr>
+                                <td>Table 2</td>
+                                <td>UserId</td>
+                                <td>playlistId</td>
+                                <td>songId</td>
+                            </tr>
+                        </table>
+
+                        <table>
+                            <tr>
+                                <td>Table 3</td>
+                                <td>UserId</td>
+                                <td>... general information from api's we collect TBD</td>
+                            </tr>
+                        </table>
+
+
+                    </div>
                     <h2>Ex. USER -> frame, Iname,dob, email, password</h2>
                 </div>
 

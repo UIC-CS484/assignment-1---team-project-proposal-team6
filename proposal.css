@@ -34,7 +34,7 @@
 }
 
 .container p {
-    font-size: 24px;
+    font-size: 20px;
     margin-left: -9px;
 }
 #infoLeft{
@@ -106,4 +106,14 @@ footer{
 .footerList li:before{
     content: "-  ";
 }
+
+.response{
+    font-weight: 1000;
+}
+
+td {
+    border:1px solid black;
+    font-weight: 1000;
+    font-size:15px;
+  }
 
