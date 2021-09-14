@@ -1,8 +1,12 @@
-function updateFontSize(){
-    let value = document.getElementById("fontInput").value; 
-    reponses = document.getElementsByClassName("allValues");
-
-    for(let i =0;i< responses.length;i++){
-        responses[i].style.fontSize = value + "px";
+function recursiveFontUpdate(element, size){
+    element.style.fontSize = size;
+    for(let i=0;i<element.children.length;i++){
+        recursiveFontUpdate(element.children[i], size)
     }
+}
+function updateFontSize(){
+    let value = document.getElementById("fontInput").value + "px"; 
+    console.log(value)
+    let body = document.getElementById("body");
+    recursiveFontUpdate(body, value);
 }
