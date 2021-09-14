@@ -68,7 +68,7 @@ footer{
 }
 .container_footer{
     font-family: Arial, Helvetica, sans-serif;
-    padding: 25px 0px 25px 0px;
+    padding: 10px 0px 10px 0px;
     display: flex;  
     margin-top: 20px;
     line-height: 2.2em;
@@ -92,7 +92,7 @@ footer{
 }
 
 .footerList{
-    margin-left: 2.5vw;
+    margin-left: 0em;
     list-style:none;
 }
 
@@ -118,7 +118,7 @@ td {
   }
 
 ol{
-    margin-left: 2.5em;
+    margin-left: 2em;
     font-size: 20px;
     font-weight: 1000;
 }
