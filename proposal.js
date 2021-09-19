@@ -10,3 +10,4 @@ function updateFontSize(){
     let body = document.getElementById("body");
     recursiveFontUpdate(body, value);
 }
+
