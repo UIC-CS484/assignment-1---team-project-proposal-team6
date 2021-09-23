@@ -19,7 +19,7 @@ Josh Dudly
 > > 3. Removed the default assignment text and added the final project information including DB tables. Additionally, added a JS file which gave the text increase/decrease box its functionality.
 
 
-**[Github Link to Project]**(https://github.com/UIC-CS484/assignment-1---team-project-proposal-team6)
+[Github Link to Project](https://github.com/UIC-CS484/assignment-1---team-project-proposal-team6)
 
 **Workflow Strategy:**
 
