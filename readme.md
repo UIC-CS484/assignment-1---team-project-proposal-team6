@@ -7,7 +7,7 @@ Jacob Raffe
 > (jraffe2) @jakeraffe
 
 > Responsibilities included: 
-> > Numbers 2 and 4 of the workflow. 
+> > Numbers 2 and 4 of the workflow.
 > > 2. Adding more structure, flexability and styling to initial mock up
 > > 4. Adding site reactivity with media queries and updating README.
 
