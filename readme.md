@@ -1,3 +1,5 @@
+[Github Link to Project](https://github.com/UIC-CS484/assignment-1---team-project-proposal-team6)
+
 **Member Names:**
 
 Jacob Raffe 
@@ -19,8 +21,6 @@ Josh Dudly
 > > 3. Removed the default assignment text and added the final project information including DB tables. Additionally, added a JS file which gave the text increase/decrease box its functionality.
 
 
-[Github Link to Project](https://github.com/UIC-CS484/assignment-1---team-project-proposal-team6)
-
 **Workflow Strategy:**
 
 1. Begin with basic mock up of design with static objects to determine spacing, margins, padding, colors and font. This step includes copying the text from the assignment as the main project was still in the proccess of being designed. 
@@ -29,7 +29,7 @@ Josh Dudly
 
 3. Add the text describing our final project design and plans as well as most all of the rest of the requiremtnes. This included displaying relational db tables, font increast/decrease input box an more.
 
-4. Complete assignment requirements by adding media queries which will react to smaller screen sized devices. Additionally, update the readmen with proper information reguarding the assignment. 
+4. Complete assignment requirements by adding media queries which will react to smaller screen sized devices. Additionally, update the readme with proper information reguarding the assignment. 
 
 **Tools and resources:**
 
